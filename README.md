@@ -2,8 +2,8 @@
 
 开发环境：node.js、Studio 3T、Mongodb Compass、Visual Studio Code
 开发技术：
-前端：html+css+javascript+jquery
-后端：node.js+express+mongodb+art-template
+前端：html+css+javascript+jquery.
+后端：node.js+express+mongodb+art-template.
 
 不建议学习，随便看看，熟悉一下node还行
 
