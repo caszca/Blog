@@ -1,4 +1,5 @@
-学校的任务，跟着b站上久远的做的博客，前后端未分离，服务端渲染
+学校的任务，跟着b站上久远的做的博客，前后端未分离，服务端渲染.
+
 开发环境：node.js、Studio 3T、Mongodb Compass、Visual Studio Code
 开发技术：
 前端：html+css+javascript+jquery
